@@ -7,7 +7,7 @@
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.580602 -gpslongitude=139.561983 -overwrite_original *.JPG # たまプラじたく
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.581360 -gpslongitude=139.516692 -overwrite_original *.jpg # 琴平神社
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.609814 -gpslongitude=139.573592 -overwrite_original *.JPG # 藤子不二雄ミュージアム
-exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.570025 -gpslongitude=139.535572 -overwrite_original *.JPG # あざみ野しらゆり
+# exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.570025 -gpslongitude=139.535572 -overwrite_original *.JPG # あざみ野しらゆり
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=34.403012 -gpslongitude=133.192319 -overwrite_original *.JPG # 尾道駅U2
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=34.410474 -gpslongitude=133.198709 -overwrite_original *.JPG # 千光寺
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=34.389360 -gpslongitude=133.012683 -overwrite_original *.JPG # 三原実家
@@ -30,6 +30,7 @@ exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.570025 -gpslongitu
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.003827 -gpslongitude=135.759995 -overwrite_original *.JPG # 四条烏丸 
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.561309 -gpslongitude=139.549721 -overwrite_original *.JPG # 赤田西公園 サッカー
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.551126 -gpslongitude=139.779608 -overwrite_original *.JPG # 羽田
+# exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.441972 -gpslongitude=138.687923 -overwrite_original *.JPG # fujiten
 
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=1.286350 -gpslongitude=103.859571 -overwrite_original *.JPG # art science
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=1.279933 -gpslongitude=103.863322 -overwrite_original *.JPG # garden by the bay
@@ -47,5 +48,5 @@ exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=35.570025 -gpslongitu
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=1.304716 -gpslongitude=103.839545 -overwrite_original *.JPG # tea
 # exiftool -gpslatituderef=n -gpslongituderef=e -gpslatitude=1.283866 -gpslongitude=103.843473 -overwrite_original *.JPG # chinatown
 
-exiftool -alldates='2017:12:09 12:00:00' -overwrite_original *.JPG
+# exiftool -alldates='2017:12:09 12:00:00' -overwrite_original *.JPG
 # exiftool -AllDates+='10:11:26 0:0:0' *.JPG
